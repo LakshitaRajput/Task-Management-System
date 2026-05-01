@@ -1,4 +1,4 @@
-# MERN Project Management App
+# MERN Task Management App
 
 ## Run Commands
 
